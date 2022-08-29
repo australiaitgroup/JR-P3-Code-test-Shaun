@@ -1,0 +1,11 @@
+
+.container{
+    background-color: white;
+}
+
+.avatar{
+    width: 150px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius: 50%;
+}
